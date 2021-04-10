@@ -1,2 +1,2 @@
 # website
-Main website for idkgames.io
+Main website for codejoe.io
